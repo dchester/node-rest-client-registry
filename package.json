@@ -1,0 +1,11 @@
+{
+  "name": "rest-client-registry",
+  "description": "Registry for REST clients",
+  "version": "0.0.1",
+  "author": "David Chester <dchester@shutterstock.com>",
+  "main": "./lib/registry",
+  "dependencies": {
+    "rest-client": "https://github.com/dchester/node-rest-client/tarball/master",
+  }
+}
+
